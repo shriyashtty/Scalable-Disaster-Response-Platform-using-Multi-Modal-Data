@@ -1,0 +1,5 @@
+dis_res/
+__pycache__/
+*.safetensors
+*.bin
+yolov8n.pt
